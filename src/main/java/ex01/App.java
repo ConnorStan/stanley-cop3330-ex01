@@ -1,8 +1,8 @@
-package challenge01;
+package ex01;
 
 import java.util.Scanner;
 
-public class example01 {
+public class App {
 
     public static void main(String[] args) {
 
